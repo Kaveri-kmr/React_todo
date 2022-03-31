@@ -1,4 +1,13 @@
 fileignoreconfig:
 - filename: package-lock.json
   checksum: 54abdbe730ac5afe78d877d5477ba8f0ac4d36bc769e4bdd2267ab806c4077a1
+fileignoreconfig:
+- filename: src/App.js
+  checksum: 22ee2cef1bd5f86145631ce8118f53913a1773442f78b47dd3dc8086ca316131
+  fileignoreconfig:
+- filename: src/App.js
+  checksum: 2820cf79cba7b8d5a30f3a1d25d74d70c721063ff48f5c65e026263a1c9e3bbb
+  fileignoreconfig:
+- filename: src/App.js
+  checksum: 8860929808322a77e7195efb61369c0e5a842ba10b7747d2d667b08af338500e
 version: ""
