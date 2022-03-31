@@ -8,6 +8,9 @@ fileignoreconfig:
 - filename: src/App.js
   checksum: 2820cf79cba7b8d5a30f3a1d25d74d70c721063ff48f5c65e026263a1c9e3bbb
   fileignoreconfig:
+fileignoreconfig:
 - filename: src/App.js
   checksum: 8860929808322a77e7195efb61369c0e5a842ba10b7747d2d667b08af338500e
-version: ""
+fileignoreconfig:
+- filename: src/App.js
+  checksum: 5507f14dc47917beb585c454cc74a6af9826287e23f3e6f83cc700f9d78549b6
